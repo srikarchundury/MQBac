@@ -1,0 +1,8 @@
+CONFIG:
+  IBMQ_API_KEY: "" # add your API Key here.
+  IBMQ_TOKEN_URL: "https://iam.cloud.ibm.com/identity/token"
+  HTTPS_PROXY: "http://proxy.ccs.ornl.gov:3128/"
+  HTTPS_PROXY: "http://proxy.ccs.ornl.gov:3128/"
+  IBMQ_JOB_API_URL: "https://quantum.cloud.ibm.com/api/v1/jobs"
+  IBMQ_SERVICE_CRN: "" # CRN from ORNL group via QCUP, CSC500.
+  IBMQ_MODE: "job"          # "job" or "session"
