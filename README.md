@@ -5,7 +5,7 @@ MQBac (Meta Quantum Backend) is the backend-selection and runtime-estimation hal
 [![IEEE QCE 2026](https://img.shields.io/badge/IEEE%20QCE%20'26-SeleQtor-lightgrey.svg)]()
 *(paper link will appear at IEEE Xplore once published)*
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 
 ## Goals
 
@@ -56,4 +56,4 @@ If you use MQBac in your research, please cite:
 
 ## License
 
-MQBac is licensed under the [Apache License, Version 2.0](LICENSE).
+MQBac is licensed under the [BSD 3-Clause License](LICENSE).
